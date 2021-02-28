@@ -6,6 +6,5 @@ SUBDIRS += \
     logger \
     tcp \
     utils \
-    tests \
     app
 
