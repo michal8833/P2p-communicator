@@ -1,3 +1,2 @@
 # P2P Comunicator
----
-[*put description here..*]
+Peer-to-peer communicator done with Qt.
