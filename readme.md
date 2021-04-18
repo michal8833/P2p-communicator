@@ -1,6 +1,6 @@
 # P2P Communicator
 Peer-to-peer communicator made with C++ and Qt.<br/>
-## Main Features:
+## Main Features
 - Sending and receiving text messages
 - Sending and receiving files
 - Storing the history of messages
