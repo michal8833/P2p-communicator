@@ -1,3 +1,9 @@
 # P2P Communicator
 Peer-to-peer communicator made with C++ and Qt.<br/>
-It lets you send and receive text messages and files, store the history of messages, manage your contacts and checking their availability.
+## Main Features:
+- Sending and receiving text messages
+- Sending and receiving files
+- Storing the history of messages
+- Managing contacts
+    - Adding, editing and deleting contacts
+    - Checking whether contact is online
